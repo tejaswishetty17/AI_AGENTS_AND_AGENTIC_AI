@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-openai
+langchain-groq
+chroma
+pandas
+numpy
+scikit-learn
+tiktoken
+python-dotenv
