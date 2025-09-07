@@ -8,3 +8,7 @@ numpy
 scikit-learn
 tiktoken
 python-dotenv
+langchain-community
+arxiv
+wikipedia
+langchain-tavily
